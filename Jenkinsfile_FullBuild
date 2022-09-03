@@ -1,0 +1,10 @@
+@Library('vanessa-usher') _
+
+start_ci(AGENT: "slave",
+        V8VERSION: "8.3.19.1467", // Версия платформы 1С
+        SOURCE_PATH: "./src/cf",
+        SONAR_NAME: "SonarQube",
+        SONAR_AGENT: "sonar-scanner",
+        VRUNNER_CONF: "config/vrunner.json") 
+
+

@@ -1,0 +1,6 @@
+@Library('vanessa-usher') _
+
+gitsync(AGENT: "depot",
+        PATH_TO_GITSYNC_CONF: "config/gitsync.json"
+) 
+

@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+	<ConfigVersions>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы" id="2241006d-540b-4e9f-ab21-112b93ae71dd" configVersion="e8686b13c02dab478362aae15bd4b4dd00000000">
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Attribute.ИдентификаторПроцесса" id="189ad321-e943-4a23-816f-676161a12864"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.ДополнительныеПараметры.Attribute.ИмяПараметра" id="255537d0-4839-4fe7-830d-38939bdebc59"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Attribute.ИспользуемаяВнешняяОбработка" id="2e317c94-7aa9-4e20-a3c0-bf67d1f85f25"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.ДополнительныеПараметры.Attribute.Описание" id="455b1064-d5c0-4690-b9fc-9b81f7bb9db1"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.Адресаты.Attribute.ДляШтатныхУведомлений" id="5619bfd2-1bdd-4e8c-824e-bc82867617ec"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.Адресаты" id="73d80e80-7cb6-4711-a58a-44de6d13d969"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.ДополнительныеПараметры.Attribute.ЗначениеПараметра" id="7525157a-f3a7-4e0a-9fe1-45f101aa485f"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.Адресаты.Attribute.Пользователь" id="86383910-45cd-4420-aede-9db2461efa8a"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.УчаствующиеТипыСообщений" id="928a9a14-f23a-41d6-99be-a2308661ec16"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.ДополнительныеПараметры" id="9d16c60a-9c74-4e98-955a-54b1c5e137d5"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Attribute.Описание" id="a7c4dbb0-126e-4b51-9ce6-d59de7d3fc78"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.УчаствующиеТипыСообщений.Attribute.ТипСообщения" id="c1f1695d-e7ad-4860-9baa-89cf082ef2d0"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.Адресаты.Attribute.ДляУведомленийОбОшибках" id="c82b828b-a346-4cfe-b97a-8b7d9adc739f"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.TabularSection.ДополнительныеПараметры.Attribute.ДопЗначениеСоответствия" id="e43a4ccb-5798-4ffe-a109-9facc970525c"/>
+			<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Attribute.Отправитель" id="e956a8f7-595d-4ede-8f0e-c29d0bdb42ec"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Form.ФормаСписка" id="c1537de0-7145-4ed5-a990-3962339ffc75" configVersion="466442319fd8954d953680eab021cebd00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Form.ФормаСписка.Form" id="c1537de0-7145-4ed5-a990-3962339ffc75.0" configVersion="77d7f67402e28e4a90e24a314839105b00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Form.ФормаЭлемента" id="8773c89a-fa4d-4090-bef3-b5ac25ece500" configVersion="0f42b487556be945820f33af3fb0511900000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.Form.ФормаЭлемента.Form" id="8773c89a-fa4d-4090-bef3-b5ac25ece500.0" configVersion="2ad9d2414edcc64e9d0fb0c75fdd394100000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.ManagerModule" id="2241006d-540b-4e9f-ab21-112b93ae71dd.3" configVersion="fba675ba71348a468990ea56c1d05aef00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерИнтеграционныеПроцессы.ObjectModule" id="2241006d-540b-4e9f-ab21-112b93ae71dd.0" configVersion="349428650f06444ebbdda651cf62ec8e00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений" id="69b03fc1-e7c7-406e-a275-c2ebb6804959" configVersion="f4f890b98a9ee3488f167486183c647d00000000">
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.ИмяВстроенногоОбработчика" id="3e38c51c-f7af-4eb2-a98b-5269ff5f1df0"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.ОбработкаВходящего" id="40abcb47-80dc-4ec6-aa79-6388cb620672"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.TabularSection.ДополнительныеПараметры" id="43b10c14-47d6-42fc-9e77-8ebf526ed720"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.TabularSection.ДополнительныеПараметры.Attribute.ЗначениеПараметра" id="4a812c70-f5b1-434a-9fc2-45b6eb3cd5e5"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.ОписаниеНастройки" id="5134186e-8175-4d2b-a3b5-c236a4d097a8"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.КодОбработкиСообщения" id="83781b34-db4e-45ed-8915-c243f87bde40"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.СинхронныйРежим" id="8ee8d544-bb70-4459-8910-2c71acf74bd8"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.ДоступноПопытокОбработки" id="9a7ae4ad-fe38-449a-ad01-cdaf10e73588"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.TabularSection.ДополнительныеПараметры.Attribute.ИмяПараметра" id="a6cdb501-6c0f-4567-bcff-e8c90b07dcad"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.ВариантПроизвольногоОбработчика" id="c3808389-709b-4286-ac72-a2579b0f5e84"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Attribute.СпособОбработкиВходящегоСообщения" id="e452918e-d09f-493d-ae9b-898ffeb41f7b"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Form.ФормаЭлемента" id="eceecd7e-9954-47b6-a2c8-6ef536365b3e" configVersion="172d63008a97fe4ebc8d023e8faabc4b00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиВходящихСообщений.Form.ФормаЭлемента.Form" id="eceecd7e-9954-47b6-a2c8-6ef536365b3e.0" configVersion="0d09564115224840b54c92892dc66ede00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений" id="ae205c53-60a8-4508-86e7-eb1ce9e10ba4" configVersion="77aafcd72233cd46a4864f14dc6bcb6600000000">
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.СинхронныйРежим" id="10de9366-14d3-4048-b3e0-beaef3b8b35b"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ВариантПроизвольногоОбработчика" id="190d8390-1078-4483-ac3f-217e9534f5ad"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ДоступноПопытокОбработки" id="2812010b-d964-488a-a0dc-5c1361755086"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ПравилаКонвертации" id="2bd07ef1-0d70-4384-8294-c9585917ecbe"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ИмяВстроенногоОбработчика" id="3b460cdd-e756-4282-8756-6f907b369da8"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ИспользоватьТранспортОбработчика" id="3b817e9c-fab8-4209-9de6-d9ecfddd8d25"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ВариантОбработчикаПриОтправке" id="465c4e3a-f39a-4bab-b94e-efcd8df3bb7e"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ИспользоватьОбработчикПослеОтправки" id="4c9e8c6f-22fa-4c9a-ad87-b0b539f8cc4a"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ИнтерфейсТранспорта" id="51ad131b-4608-422d-9310-84f8395d7142"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.СпособФормированияСообщений" id="53075af8-7f59-444b-b096-d917d64b9d39"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ДругиеПараметрыПодключения" id="5a035a7d-6917-4909-9d24-0144d529eb74"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.TabularSection.ДополнительныеПараметры" id="81aaa177-d23f-4ec8-b138-36a972adba81"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ОписаниеНастройки" id="87ae2379-fa86-4e20-b633-c3e026ced0f9"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.TabularSection.ДополнительныеПараметры.Attribute.ЗначениеПараметра" id="8873711e-ce53-4d3c-b017-e6617f83f0a2"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.КодФормированияСообщения" id="8c58173b-0e87-4fad-8eb7-9a5967c6557d"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.СжиматьВZip" id="8f6efcb2-8697-4cf0-967a-6dfd1a1ca495"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.КонструкторСообщения" id="a69c57fb-58eb-4dbd-a841-4f5822d1cd85"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ОбрабатыватьРезультатЗапроса" id="a80e1898-ded6-43b7-b95f-b582649e69a8"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ИспользоватьОбработчикПередОтправкой" id="bcb7cd72-c031-463b-9f66-9dcffc4ee050"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ОбработкаФормированияИсходящего" id="cd4564aa-f6f7-4cc4-8c49-85bf9b21512f"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ИмяВстроенногоОбработчикаПриОтправке" id="d300970a-b9b8-413c-b903-8174b300c347"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ОбработкаПриОтправке" id="e2a26d55-0e52-4265-aea9-3b408b48927d"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.TabularSection.ДополнительныеПараметры.Attribute.ИмяПараметра" id="f0e655e1-4d05-4e57-a814-e58039553e7e"/>
+			<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Attribute.ТипВходящегоДляОбработкиРезультата" id="f635fbed-75fd-4621-8449-c475ef63a4af"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Form.ФормаЭлемента" id="8899be36-3f24-4597-9dae-e256f5f9e976" configVersion="01b0222e0837d74c8c4544a6a395dcbd00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Form.ФормаЭлемента.Form" id="8899be36-3f24-4597-9dae-e256f5f9e976.0" configVersion="1acfc5f18688be46b39f35bdac26895b00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.ObjectModule" id="ae205c53-60a8-4508-86e7-eb1ce9e10ba4.0" configVersion="b0865750e138a3459f3adcf2605e75b600000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Template.БиблиотекаПодсветки" id="b7f423f7-1b51-48b5-83d3-5ac9056643a4" configVersion="22c4c199a056aa4ba3b8fe4a84b6519c00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Template.БиблиотекаПодсветки.Template" id="b7f423f7-1b51-48b5-83d3-5ac9056643a4.0" configVersion="8dc42da78e65ae4490d47ce8cf6fda1100000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Template.ШаблонКодаФормирования" id="3bd2efa0-7ec0-49d0-9546-799889c9ed2c" configVersion="cc65f1f7ecc8064a9c8493bcb81adc2000000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерНастройкиИсходящихСообщений.Template.ШаблонКодаФормирования.Template" id="3bd2efa0-7ec0-49d0-9546-799889c9ed2c.0" configVersion="779cff6a4571124db4feb01606225ea600000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам" id="0155ec32-5160-424c-889c-67d6fc6d1455" configVersion="cfd93c7ceb32c6489fabffbc3b2ae15800000000">
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSПользовательОпределения" id="0755c075-3597-431c-8a74-2b0536a00e2b"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.COMАутентификацияОперационнойСистемы" id="1190d56a-cdb4-407f-af83-4a9e0acab70a"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.ExtSysИмяПриложенияCOM" id="1924eb28-b720-474a-8a85-6717c00cc0a6"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSПользовательПрокси" id="25611a5f-5895-4510-a112-6e9524fc7b2b"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSТаймаут" id="2ff8165f-e04a-4ada-9ca9-a84a672eadf6"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPПользователь" id="57aee703-9fa1-40a1-9707-89f70b6fcc96"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPАутентификацияОС" id="5ac920ac-8326-49c3-a85b-644613adda6e"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSURIПространстваИменСервиса" id="5c754466-004b-47f3-9b3b-a5afdc6589d5"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.COMФайловаяБазаКорреспондент" id="773b3a4f-b668-4f55-a33f-b1c81e259053"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.ИнтерфейсТранспортаПоУмолчанию" id="7d371b8e-fc7d-43ff-b192-ba502817109d"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSАутентификацияОСОпределения" id="84131d36-54fb-449d-8fa7-fc15ad78f47f"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPЗащищенноеСоединение" id="898fb14f-5185-48a3-bd86-22992fea7ad3"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPТаймаут" id="8a178056-fad8-4130-965f-7faca49dbee2"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.ExtSysИмяПользователя" id="97617510-75b8-424e-a95b-b36f45dcdb0b"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.ExtSysСтрокаПодключения" id="99784233-d17a-47fe-89d8-fbd0c5ce2d10"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSСсылкаWSDL" id="a047d892-573a-446f-9107-00bf65d4ba93"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPРесурсНаСервере" id="b0543378-4715-4fd6-b2f9-3a6b3426ae21"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.ПсевдоПодключение" id="b28456d8-723b-4c87-b147-06577ea196bd"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.COMИмяБазыНаСервере1СПредприятия" id="bf19381c-0928-43c6-9283-df4457a7b6c7"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSАутентификацияОС" id="c8e0bcfe-cb6a-4f7b-a794-2bab108469b0"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.COMИмяПользователя" id="cc6e715b-457a-44f8-818f-5a9f0fe1aa77"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPПорт" id="d49a1380-8740-49f7-a8a9-911408a8642e"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.COMКаталогИнформационнойБазы" id="d84bbed9-5f7c-4e18-8832-4e4a0a1b1fe4"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.COMИмяСервера1СПредприятия" id="dc66dd4d-c491-4b1c-bd63-52d424e62ebb"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSИмяСервиса" id="e06e31ed-adee-4d76-94f8-cd48aa8b885e"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.WSИмяТочкиПодключения" id="e6c40d97-b79d-4a7b-90f3-ff399cbfcc87"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.ИдентификаторПодключения" id="e90ec525-fc18-4a50-9c40-8300aae94445"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.Комментарий" id="ea45a3ec-8796-46cb-b3f3-ec161d0b11a1"/>
+			<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Attribute.HTTPАдресСервиса" id="fa1c6471-7905-487b-9833-36f468374683"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Form.ФормаЭлемента" id="892a7000-02cf-41c8-a3d2-1aab7a828749" configVersion="c21b9806736994448802a72609f3250200000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.Form.ФормаЭлемента.Form" id="892a7000-02cf-41c8-a3d2-1aab7a828749.0" configVersion="d2ced8017b3fb0409690a815eb100af100000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.ManagerModule" id="0155ec32-5160-424c-889c-67d6fc6d1455.3" configVersion="a6e23504d939104a8db1e5790899d0d700000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерПодключенияКВнешнимСистемам.ObjectModule" id="0155ec32-5160-424c-889c-67d6fc6d1455.0" configVersion="4f1c0201fb7e414a8a735b295541e1e600000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие" id="477d34b1-3394-4fa2-ad7c-401c90e06e21" configVersion="ea659c057c7e7b4bab54964e84226b7000000000">
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ВнешняяСистема" id="13c2b48e-747c-45ef-bf5e-639902fcfce6"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ИдентификаторСообщения" id="1ff74aff-28a4-4508-8a0b-566080325ad3"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.Пользователь" id="63ab5171-7af0-41ef-87ef-7229bcd3bd0a"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ДатаПоследнегоИзменения" id="6a15b3e7-1613-4cd3-9483-6f2114666ca3"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.TabularSection.СвязанныеСообщения" id="71409f49-36d8-4a61-be21-ec59b90d130e"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.TabularSection.ЗагружаемыеОбъекты.Attribute.ОбъектОбмена" id="724a5fb4-dc50-411d-8063-480172f0891b"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.TabularSection.ЗагружаемыеОбъекты" id="7552e7bf-84d1-4470-89c7-43c7d2c33988"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.УникальноеВремяСоздания" id="838525ff-1ee9-40e5-8296-e8b24094ba94"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.СостояниеСообщения" id="877855eb-3b0c-48a5-8a28-842b398e61c8"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.TabularSection.СвязанныеСообщения.Attribute.СвязанноеСообщение" id="8c7f7248-ee4e-429e-894a-04b210597659"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ИдентификаторВоВнешнейСистеме" id="ae06f9b1-e084-47a8-95d0-40a2a4d24ace"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ТипСообщения" id="b8c96710-25e3-48cf-89a1-4e87146d893e"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ЕстьОшибки" id="bee0707e-2913-4c6c-8c2d-c67b9cd8c2eb"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.Комментарий" id="d65b7165-997d-4cd2-9702-0790a1d3a0e0"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.СсылкаНаСвязанныйОбъект" id="d7d024b3-6b41-4dd3-8dcb-98e7f6bc2c61"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.ДатаСоздания" id="e4ff159f-a09a-449b-88d9-1301ab474d04"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Attribute.СчетчикПопытокОбработки" id="f4a66b3f-9673-4b93-a9c9-3ba8fccb2587"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Form.ФормаВыбора" id="0fa9b7e3-5f9a-41fd-9995-0c830390c354" configVersion="95dd20214af34c46b956c031f6ef5f5200000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Form.ФормаВыбора.Form" id="0fa9b7e3-5f9a-41fd-9995-0c830390c354.0" configVersion="dd7a344f4ee7a2489b19e3a10c21325a00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Form.ФормаЭлемента" id="bed19f0e-fd7f-4193-8362-1217f3585ef5" configVersion="5e1f356e5f7a2a43b0c6e20c204ebd8600000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.Form.ФормаЭлемента.Form" id="bed19f0e-fd7f-4193-8362-1217f3585ef5.0" configVersion="5f773a3e63b7414db1805c5acf06891c00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияВходящие.ObjectModule" id="477d34b1-3394-4fa2-ad7c-401c90e06e21.0" configVersion="aed7bff54f5885438ebd6c9a18303a1300000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие" id="f46853e3-4a27-41f4-aaad-b2d6502ce61e" configVersion="da7f854a5ceb8d498b3c79fc9294e08800000000">
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.TabularSection.ВыгружаемыеОбъекты.Attribute.ОбъектОбмена" id="0cbcd0d4-a72d-4a3f-b778-dcf17ff370f5"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.Комментарий" id="22089e29-de44-4f79-8c1f-c62c92fd3ccf"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ТипСообщения" id="3f799f13-7857-4110-a3a8-c9ec5cc3ad1a"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ИдентификаторСвязанногоСообщения" id="4454f905-0b4a-40fc-874f-eb184deb529b"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ИдентификаторСообщения" id="6c3f8a7e-1ed2-44ea-ab26-295482089118"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.СчетчикПопытокОбработки" id="77e5d0cb-5ef0-415d-a19d-1ca5c5c87005"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.УникальноеВремяСоздания" id="7ae45a9b-57e3-44f9-b265-b0f3d647c57c"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ПроизвольныеДанные" id="86e160ce-015a-43ce-99bf-5d12e3e28412"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.Пользователь" id="88f78aa5-7cef-4140-ab71-06e252d668f3"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ДатаСоздания" id="94dd4353-1899-48c8-aac7-d4be18877474"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.TabularSection.СвязанныеСообщения" id="9c28a797-097e-4441-8210-fa7a2a847697"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.TabularSection.СвязанныеСообщения.Attribute.СвязанноеСообщение" id="a29c25c1-11b0-4265-87c3-88883d625c56"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ДатаПоследнегоИзменения" id="a8853efa-3ced-45c9-a3b7-a0af5db4f622"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.TabularSection.ВыгружаемыеОбъекты" id="aae36c7f-fec8-446c-a548-c078aed1ee51"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ВнешняяСистема" id="c01e5ee2-d296-4692-afa8-d3fc355d28e8"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.СостояниеСообщения" id="c1ffc8b5-95eb-4512-a9be-dad3c6845669"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.ЕстьОшибки" id="d2f8d316-690f-46bb-b05e-9b68cda0ceaa"/>
+			<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Attribute.СсылкаНаСвязанныйОбъект" id="fe1186b8-11dd-4579-8e01-1f5ef76e5b74"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Form.ФормаВыбора" id="46d4bddb-52e3-4317-bb30-ee3d35325d02" configVersion="cfaf600885c9b14888f766f365e873a900000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Form.ФормаВыбора.Form" id="46d4bddb-52e3-4317-bb30-ee3d35325d02.0" configVersion="7455c30b6d059149a146f371149f452a00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Form.ФормаЭлемента" id="1e25e0f6-1cd1-4997-93ad-3caaa479da26" configVersion="a4931833af9b324b91ad0e30860d7d1100000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.Form.ФормаЭлемента.Form" id="1e25e0f6-1cd1-4997-93ad-3caaa479da26.0" configVersion="23c6a4f0fba9bc448b04a3e3bb73e52a00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерСообщенияИсходящие.ObjectModule" id="f46853e3-4a27-41f4-aaad-b2d6502ce61e.0" configVersion="5d841f74f65cf94982992a16d2506a4a00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения" id="51a911ec-eb15-458b-9d40-97ebb1ce6e01" configVersion="85b765e752326b41afaecec4b07e310600000000">
+			<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения.Attribute.ИнтеграционныйПроцесс" id="6a76c24a-b3cf-40c7-9fb6-fa29b2d53714"/>
+			<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения.Attribute.ТехническоеИмя" id="a82962c1-acd8-47d4-8df4-1c666ee4f9b7"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения.Form.ФормаЭлемента" id="d985ee62-d22c-4bf0-997e-196847219a48" configVersion="0ece49d4a51dfd4096003fdaf5a26a0100000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения.Form.ФормаЭлемента.Form" id="d985ee62-d22c-4bf0-997e-196847219a48.0" configVersion="3428aafd224f8e4eb210e48197448f1d00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения.ManagerModule" id="51a911ec-eb15-458b-9d40-97ebb1ce6e01.3" configVersion="2bb6e38b550fab49922684d798938bd300000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипВходящегоСообщения.ObjectModule" id="51a911ec-eb15-458b-9d40-97ebb1ce6e01.0" configVersion="ceecc4f454545f4f9f47daa2d671027800000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения" id="d9e58e8c-afd1-410c-85b4-f99e4f0f97f6" configVersion="da2b6772562eee47ae8c1df8e3d9dfc900000000">
+			<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения.Attribute.ТехническоеИмя" id="42b7b017-7487-414c-b711-6fe14ac8042f"/>
+			<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения.Attribute.ИнтеграционныйПроцесс" id="59640879-8abd-40af-9ad3-f603ad3bf6d9"/>
+		</Metadata>
+		<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения.Form.ФормаЭлемента" id="ee1248e8-64f6-4cb8-953e-623a2c5979af" configVersion="abaa21d884606a4297b9bebffc41c26600000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения.Form.ФормаЭлемента.Form" id="ee1248e8-64f6-4cb8-953e-623a2c5979af.0" configVersion="17dfbde92ec21f4f841ea792f27bef7000000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения.ManagerModule" id="d9e58e8c-afd1-410c-85b4-f99e4f0f97f6.3" configVersion="5f6798dccc1eda4c801e76daa98008da00000000"/>
+		<Metadata name="Catalog.QIWI_АдаптерТипИсходящегоСообщения.ObjectModule" id="d9e58e8c-afd1-410c-85b4-f99e4f0f97f6.0" configVersion="b0bd09572a658243b2cfa0f35fc77dd400000000"/>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки" id="92707138-5004-4378-8477-f909166d319d" configVersion="554e532ddde4204dbad617e1c23e975300000000"/>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.Help" id="92707138-5004-4378-8477-f909166d319d.1" configVersion="168b5b6a73c98b4c8392e46a4013359e00000000"/>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.ManagerModule" id="92707138-5004-4378-8477-f909166d319d.3" configVersion="6bb7b3ddcd76f44c91174b398b73732800000000"/>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.ObjectModule" id="92707138-5004-4378-8477-f909166d319d.0" configVersion="7cbeb84a6dfe5b40b447c3fd0afcf2bb00000000"/>
+		<Metadata name="Catalog.Пользователи" id="bffeceba-fe82-4593-9d34-edc03d99fa44" configVersion="febaa20b3ccddb4ab411b306901524dc00000000"/>
+		<Metadata name="Catalog.Пользователи.Help" id="bffeceba-fe82-4593-9d34-edc03d99fa44.1" configVersion="f454dae1335f3a439e7cd50d3281bf2d00000000"/>
+		<Metadata name="Catalog.Пользователи.ManagerModule" id="bffeceba-fe82-4593-9d34-edc03d99fa44.3" configVersion="0b6494fc347c414095f3b225a41eba2f00000000"/>
+		<Metadata name="Catalog.Пользователи.ObjectModule" id="bffeceba-fe82-4593-9d34-edc03d99fa44.0" configVersion="96bc1c2e73e1b347bd901321ce9e82e600000000"/>
+		<Metadata name="Catalog.УчетныеЗаписиЭлектроннойПочты" id="6b2340d7-687f-43a3-8eb8-8ddb86712466" configVersion="f51850e67598c14390f9859dbeb2d2a500000000"/>
+		<Metadata name="Catalog.УчетныеЗаписиЭлектроннойПочты.Help" id="6b2340d7-687f-43a3-8eb8-8ddb86712466.1" configVersion="73c09902564bf2459c75b8e63ccb588b00000000"/>
+		<Metadata name="Catalog.УчетныеЗаписиЭлектроннойПочты.ManagerModule" id="6b2340d7-687f-43a3-8eb8-8ddb86712466.3" configVersion="7bff21c766a3aa4aa8524c15e989ac8000000000"/>
+		<Metadata name="Catalog.УчетныеЗаписиЭлектроннойПочты.ObjectModule" id="6b2340d7-687f-43a3-8eb8-8ddb86712466.0" configVersion="bb532d8daae5fd439183572bfe0dd55c00000000"/>
+		<Metadata name="Catalog.УчетныеЗаписиЭлектроннойПочты.Predefined" id="6b2340d7-687f-43a3-8eb8-8ddb86712466.1c" configVersion="886cf7fc912c11459bc36b48ce9a6fa500000000"/>
+		<Metadata name="CommandGroup.QIWI_АдаптерУправление" id="9f255434-e1d0-4a26-968c-718fdca5405a" configVersion="088ff73f3f316d47a4d5b3e423cd54c700000000"/>
+		<Metadata name="CommonCommand.QIWI_АдаптерВнешниеСистемы" id="8ee3a38c-ced5-4d6b-8aa7-6fbb9504f0af" configVersion="05c7484af3e1534a85295d7e0f8b7d9900000000"/>
+		<Metadata name="CommonCommand.QIWI_АдаптерВнешниеСистемы.CommandModule" id="8ee3a38c-ced5-4d6b-8aa7-6fbb9504f0af.2" configVersion="815bc028f19be24ea753c36d7cf39b2500000000"/>
+		<Metadata name="CommonCommand.QIWI_АдаптерПараметрыПодключенияКВнешнимСистемам" id="7996727b-f369-41db-bb24-c4e391d0e4b5" configVersion="577792e7d537bd4fb00ce9ae99d8d32f00000000"/>
+		<Metadata name="CommonCommand.QIWI_АдаптерПараметрыПодключенияКВнешнимСистемам.CommandModule" id="7996727b-f369-41db-bb24-c4e391d0e4b5.2" configVersion="bc4ffe126fb4154a9d4b6257f1d0244d00000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерВызовСервера" id="09fcc0de-8c49-4378-9cce-899413b1d60d" configVersion="647364caaa59644eb28f0fd0fa51efce00000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерВызовСервера.Module" id="09fcc0de-8c49-4378-9cce-899413b1d60d.0" configVersion="051e28941603384fb9bac40c4867e56300000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерКонструкторСообщенийXML" id="0e203653-ae47-4d87-b30a-688682f92986" configVersion="e65ed35bfbedc44db04a348844776aa300000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерКонструкторСообщенийXML.Module" id="0e203653-ae47-4d87-b30a-688682f92986.0" configVersion="94b66931ecff1543a1d4a1df8d59d73600000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерНаВремяВызоваПовтИсп" id="1d7411a8-4d47-44cf-8ef1-ecd74beaf8ac" configVersion="5fc839b40f77a048a41b65e81b986cec00000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерНаВремяВызоваПовтИсп.Module" id="1d7411a8-4d47-44cf-8ef1-ecd74beaf8ac.0" configVersion="2b77c927fb336442bc09ecc1eaec71d200000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерОбмен" id="04291da9-bc9b-4bbf-812c-6c7618c230e5" configVersion="2df9f317e8177145bcd31909f7ad40b700000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерОбмен.Module" id="04291da9-bc9b-4bbf-812c-6c7618c230e5.0" configVersion="6202a75e3dd06045ba3c2afa9d17439d00000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерОбщегоНазначения" id="1d645805-a47f-40a7-9d13-7be4fd413da2" configVersion="b3379de0ee4bce4b8379d69d377473d800000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерОбщегоНазначения.Module" id="1d645805-a47f-40a7-9d13-7be4fd413da2.0" configVersion="b0dc66a836c1f04b947a985cc14cfdbf00000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерПереопределяемый" id="18eac40a-84f1-4f44-bf26-c2086d388ef7" configVersion="009cbf9b4e1dcf4d9723dab556a6148200000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерПереопределяемый.Module" id="18eac40a-84f1-4f44-bf26-c2086d388ef7.0" configVersion="8af60d1a1724164cb1cecb97e5e3710400000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерПовтИсп" id="08fcf882-64bd-401f-bc79-431be06b9822" configVersion="907b8ae1c6342045adcc2ef7ed3fe38100000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерПовтИсп.Module" id="08fcf882-64bd-401f-bc79-431be06b9822.0" configVersion="a42d42f37d262b43935870914c33d66f00000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерПривилегированный" id="6e2802c2-d84f-4426-be4f-c0c6cc67e0a3" configVersion="a48a982ab52da047bf8af68a093567c600000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерПривилегированный.Module" id="6e2802c2-d84f-4426-be4f-c0c6cc67e0a3.0" configVersion="0556a19a0496634ebb2337fc14d8d98800000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерШлюзБСПКлиентСервер" id="b9be46bb-e334-4786-b37f-1e89824ac466" configVersion="161503d1f397a14bbdce972ada7bc3d100000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерШлюзБСПКлиентСервер.Module" id="b9be46bb-e334-4786-b37f-1e89824ac466.0" configVersion="1f029d45c5294b468d6642595a84f70400000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерШлюзБСПСервер" id="3b14e00c-4204-4f66-b658-6bffa11406e5" configVersion="6e40a9502d623a4ebe7132a026fdb32800000000"/>
+		<Metadata name="CommonModule.QIWI_АдаптерШлюзБСПСервер.Module" id="3b14e00c-4204-4f66-b658-6bffa11406e5.0" configVersion="c618a1ed7165774cb4c3965e529a3e2f00000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерВводимыеСимволыВидны" id="2aa01cd9-147c-4719-8c35-c63bd2f052a1" configVersion="b4bf8753af6c2d479137eb7ba1873a7900000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерВводимыеСимволыВидны.Picture" id="2aa01cd9-147c-4719-8c35-c63bd2f052a1.0" configVersion="f116640d29d6bd459eb17e599029ff9a00000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерВводимыеСимволыСкрыты" id="3c879df7-4651-42df-a9ec-02a66ad3742f" configVersion="45a8a90e0c713f40b4f622fde392e49e00000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерВводимыеСимволыСкрыты.Picture" id="3c879df7-4651-42df-a9ec-02a66ad3742f.0" configVersion="3f2cbf10330d24438c399b8b4097021100000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерВниманиеКрасный" id="80a48a4a-c80d-4074-b48d-b2aea64c9331" configVersion="9d109d99551b7541b940b5fd21c91f5200000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерВниманиеКрасный.Picture" id="80a48a4a-c80d-4074-b48d-b2aea64c9331.0" configVersion="5d8bd85b34d89846a55b1f850abb994e00000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерКругЗеленый" id="e48dbe94-49b8-45b6-8b65-70983e513907" configVersion="a5b016cb23d39048bc09b6d9658e304900000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерКругЗеленый.Picture" id="e48dbe94-49b8-45b6-8b65-70983e513907.0" configVersion="7d688043a9f08142896f73073532f0e600000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерКругКрасный" id="7c75f749-5041-478c-af51-dac88bb2a931" configVersion="9a6e1a3bfefef44490e6bc6622785d4b00000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерКругКрасный.Picture" id="7c75f749-5041-478c-af51-dac88bb2a931.0" configVersion="3f06ccc47968e948a8eaa0d2e91e65a100000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерПодключениеЖелтый" id="b37ed1da-ce0d-4cad-a81b-a5d09cbc31ca" configVersion="9151cb08be10ef4692d3ff92b9fe0c7d00000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерПодключениеЖелтый.Picture" id="b37ed1da-ce0d-4cad-a81b-a5d09cbc31ca.0" configVersion="c4259afbb7ac8e4890c51b807560c55400000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерПодсистема" id="4afc8b55-d700-4386-bb10-cad60414929f" configVersion="140585339cc7624da287f3f35d99fd8800000000"/>
+		<Metadata name="CommonPicture.QIWI_АдаптерПодсистема.Picture" id="4afc8b55-d700-4386-bb10-cad60414929f.0" configVersion="36dde63899ea6046ab28fbccde42864200000000"/>
+		<Metadata name="Configuration.Адаптер" id="f65e76a7-5758-4e39-bf7a-414c6ba23ffa" configVersion="ba475b823e337c4f9a8a4aa55d080ec300000000"/>
+		<Metadata name="Configuration.Адаптер.ExternalConnectionModule" id="bebf0baa-039b-47af-ae81-5b132103d17b.5" configVersion="d1c77ae7caaa95498dbd365ef1f0c54600000000"/>
+		<Metadata name="Configuration.Адаптер.MainSectionCommandInterface" id="bebf0baa-039b-47af-ae81-5b132103d17b.9" configVersion="e969f84357526845975a22e897c8227500000000"/>
+		<Metadata name="Configuration.Адаптер.OrdinaryApplicationModule" id="bebf0baa-039b-47af-ae81-5b132103d17b.0" configVersion="626f87ba2057764aa5aec8843798a0e600000000"/>
+		<Metadata name="Configuration.Адаптер.ParentConfigurations" id="bebf0baa-039b-47af-ae81-5b132103d17b.4" configVersion="c6ba57dd5d26474a8f38763878e2db0e00000000"/>
+		<Metadata name="Configuration.Адаптер.SessionModule" id="bebf0baa-039b-47af-ae81-5b132103d17b.7" configVersion="f46a391836cead49b2453d606d7e37f700000000"/>
+		<Metadata name="Constant.QIWI_АдаптерИмяИБДляРаботыРеглЗаданий" id="2ed1140e-f264-478d-b6f0-49c823aa9f56" configVersion="7bba2c28d8f7474dab29e87df456ec2800000000"/>
+		<Metadata name="Constant.QIWI_АдаптерКаталогХраненияЛогФайлов" id="a062d937-01a0-40c4-bc83-8ba38d91cf2d" configVersion="84846805c03f114686bf82d9f2c3553c00000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование" id="965ff8f3-27f7-46db-b734-745ad2a4594c" configVersion="172c0d5aefa3e740b32eab9c1e8a4cd800000000">
+			<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Command.УправлениеАдаптером" id="06004c7d-e07b-401a-82a2-bd55fb0dc482"/>
+			<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Command.БлокировкаОбмена" id="59546d80-a479-4b4f-a881-0bf41f8ede05"/>
+		</Metadata>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Command.БлокировкаОбмена.CommandModule" id="59546d80-a479-4b4f-a881-0bf41f8ede05.2" configVersion="b4b15a7c6561bf4687475be713663d9700000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Command.УправлениеАдаптером.CommandModule" id="06004c7d-e07b-401a-82a2-bd55fb0dc482.2" configVersion="fc3e0c555a469940b69240052cce451300000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Form.ВыборИзЗапроса" id="3abf88d3-9e46-4426-9f6c-2a31719b671c" configVersion="28c0238260c9dc4392cf18626155f55500000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Form.ВыборИзЗапроса.Form" id="3abf88d3-9e46-4426-9f6c-2a31719b671c.0" configVersion="a4230f5e046cd14fbff7e11af2eeac6700000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Form.Форма" id="6a064e40-5d39-4553-861c-ffdc6b5e0dd3" configVersion="a8b5a4b21fc88f4ea13db9e8be86046b00000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Form.Форма.Form" id="6a064e40-5d39-4553-861c-ffdc6b5e0dd3.0" configVersion="2d9d30e634e999408f764e006b68afd200000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Form.ФормаДоступностиРеглЗаданий" id="45ac40b4-9f8d-42f4-a268-19df686e5bf1" configVersion="db776a21d5dc6644883c204afb55c2a300000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Form.ФормаДоступностиРеглЗаданий.Form" id="45ac40b4-9f8d-42f4-a268-19df686e5bf1.0" configVersion="2a32a6b7b151d449a3a50c357204054900000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.ObjectModule" id="965ff8f3-27f7-46db-b734-745ad2a4594c.0" configVersion="de50caea9a945445bc1bdec22384398a00000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Template.ОтчетПоИнтеграционнымВзаимодействиям" id="4055278a-ad86-4125-a786-7fc01e5b9906" configVersion="be2f35cf2af37346bf43f272be24978800000000"/>
+		<Metadata name="DataProcessor.QIWI_АдаптерАдминистрирование.Template.ОтчетПоИнтеграционнымВзаимодействиям.Template" id="4055278a-ad86-4125-a786-7fc01e5b9906.0" configVersion="f5d287dab129754693b4c3b890eeff0f00000000"/>
+		<Metadata name="DefinedType.QIWI_АдаптерОбъектыОбмена" id="bb67e2fe-08ee-4a62-9e3b-af5e4e2eca22" configVersion="99cea9d9d386684cbfb820b5cc96790600000000"/>
+		<Metadata name="Document.ТестовыйДокумент" id="bcb5f124-b8c9-4bb3-8072-847b9e45a873" configVersion="7006297ac273114ea39f336025a1efb300000000"/>
+		<Metadata name="Document.ТестовыйДокумент.ManagerModule" id="bcb5f124-b8c9-4bb3-8072-847b9e45a873.2" configVersion="4ff7913f1bc54c4d92f1d1b7c7a6afa100000000"/>
+		<Metadata name="Document.ТестовыйДокумент.ObjectModule" id="bcb5f124-b8c9-4bb3-8072-847b9e45a873.0" configVersion="fb4a198173e46a429839948e314d6ece00000000"/>
+		<Metadata name="Enum.QIWI_АдаптерВариантыПроизвольногоОбработчика" id="bbe75ac0-89c8-4f20-a3fe-93e72e09c3e2" configVersion="009ccafbd12d01439bd74ebf54b8f02d00000000">
+			<Metadata name="Enum.QIWI_АдаптерВариантыПроизвольногоОбработчика.EnumValue.ПодключаемыйОбработчик" id="0a77cf72-aedd-4a7f-828f-ede9fdc24e19"/>
+			<Metadata name="Enum.QIWI_АдаптерВариантыПроизвольногоОбработчика.EnumValue.ПроизвольныйКод" id="186b0abf-db4f-474d-9b92-6231dd792105"/>
+			<Metadata name="Enum.QIWI_АдаптерВариантыПроизвольногоОбработчика.EnumValue.ВстроенныйОбработчик" id="54a24034-1f2e-4235-96f3-87ce9456d444"/>
+			<Metadata name="Enum.QIWI_АдаптерВариантыПроизвольногоОбработчика.EnumValue.ОпределяетсяВнеПодсистемы" id="c65fecda-edbf-446f-8ab4-badc345b6f79"/>
+		</Metadata>
+		<Metadata name="Enum.QIWI_АдаптерИнтерфейсыТранспорта" id="63b4f97b-0031-4b5a-9a81-9269642b1ac3" configVersion="b31df9152b08ee41b9b20b040f748b7900000000">
+			<Metadata name="Enum.QIWI_АдаптерИнтерфейсыТранспорта.EnumValue.HttpService" id="0fa493c3-a3c4-47d2-a524-a29398b353cb"/>
+			<Metadata name="Enum.QIWI_АдаптерИнтерфейсыТранспорта.EnumValue.WebService" id="46be09cc-7465-4a50-9561-d2a91a93adf5"/>
+			<Metadata name="Enum.QIWI_АдаптерИнтерфейсыТранспорта.EnumValue.COM" id="95e46cfb-0c61-45dd-a285-4b3f65608bd5"/>
+			<Metadata name="Enum.QIWI_АдаптерИнтерфейсыТранспорта.EnumValue.ExternalSystem" id="b5403a58-605c-47d9-b58e-04f5b7a7ce34"/>
+		</Metadata>
+		<Metadata name="Enum.QIWI_АдаптерСостоянияВходящих" id="5a2ef7d6-4113-4ddf-9370-83322abcb904" configVersion="7737cc8f17cda94fadcea8beacfcb7d100000000">
+			<Metadata name="Enum.QIWI_АдаптерСостоянияВходящих.EnumValue.Обработано" id="6c6b7880-24e4-4605-8e12-ac330e400a14"/>
+			<Metadata name="Enum.QIWI_АдаптерСостоянияВходящих.EnumValue.Зарегистрировано" id="ffc2bf32-cb4a-4145-b228-1b945c6bed2f"/>
+		</Metadata>
+		<Metadata name="Enum.QIWI_АдаптерСостоянияИсходящих" id="4dbff137-eae3-42bc-ae50-558c15aa9496" configVersion="ff014726b1446f40a8dc08433bb003b000000000">
+			<Metadata name="Enum.QIWI_АдаптерСостоянияИсходящих.EnumValue.ОжидаетОтправки" id="4dc26aa0-c7f5-4e47-891e-a4729dc90ef8"/>
+			<Metadata name="Enum.QIWI_АдаптерСостоянияИсходящих.EnumValue.Зарегистрировано" id="87ba2b78-13d1-4277-ac07-8aa6c4b4fab2"/>
+			<Metadata name="Enum.QIWI_АдаптерСостоянияИсходящих.EnumValue.ВыгруженоВоВнешнююСистему" id="a9c775b1-af70-4ab7-adb5-a99c58205b22"/>
+		</Metadata>
+		<Metadata name="Enum.QIWI_АдаптерСпособыПреобразованияСообщений" id="e5aed343-472f-40d1-8c45-4f1d7649c9d0" configVersion="f25dc71906b13646a7fd445aad1e1b2b00000000">
+			<Metadata name="Enum.QIWI_АдаптерСпособыПреобразованияСообщений.EnumValue.ПравилоКонвертации" id="05ce6dab-17f5-4a9a-8b09-4163a5b6f11a"/>
+			<Metadata name="Enum.QIWI_АдаптерСпособыПреобразованияСообщений.EnumValue.КонструкторСообщения" id="6430d094-4274-48b0-934f-a6cc226043a3"/>
+			<Metadata name="Enum.QIWI_АдаптерСпособыПреобразованияСообщений.EnumValue.ПроизвольныйАлгоритм" id="c2a40679-9d84-4dac-95f5-f4634e179d05"/>
+		</Metadata>
+		<Metadata name="Enum.QIWI_АдаптерУровниСобытийПротокола" id="1992dbac-4017-4cc2-a63c-f3c37b30fd7a" configVersion="0a479634d5cf2348849b99285b3ceb7f00000000">
+			<Metadata name="Enum.QIWI_АдаптерУровниСобытийПротокола.EnumValue.Информация" id="b0b7b030-25bb-4f23-9a31-f1f54f92b40d"/>
+			<Metadata name="Enum.QIWI_АдаптерУровниСобытийПротокола.EnumValue.Ошибка" id="f036cdda-2f44-48f8-801a-53675d77e188"/>
+		</Metadata>
+		<Metadata name="EventSubscription.QIWI_АдаптерОбработкаПроведения" id="f5cdc1bb-343b-4b61-9409-93650e591326" configVersion="d3816fe5d7c5144f8dda40273d2eecd100000000"/>
+		<Metadata name="EventSubscription.QIWI_АдаптерПередУдалениемДокумента" id="c05fe637-1a5a-4226-8b5e-89494887631e" configVersion="dfeb3fce2b2ea34c8f6d8e433d3b43e900000000"/>
+		<Metadata name="EventSubscription.QIWI_АдаптерПередУдалениемСправочника" id="88fbc7de-dece-4116-bb38-3d914d6c5373" configVersion="89862a4f43b54b48b898a6f8397b71e200000000"/>
+		<Metadata name="EventSubscription.QIWI_АдаптерПриЗаписиДокумента" id="8258d9c0-1a0c-41bf-b7ef-2cc280e09e62" configVersion="3457894d9033d24c86e52fe0c3a8385000000000"/>
+		<Metadata name="EventSubscription.QIWI_АдаптерПриЗаписиСправочника" id="c048b40c-47d9-4d60-81d8-bc73c46338f1" configVersion="787c2ad491df0b478fbab6b8590621f100000000"/>
+		<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы" id="f4487480-cdfa-4577-82fb-d0cba62749f0" configVersion="fd402092a9d43144b2a6803cc77ef60100000000">
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ИДРеглЗаданияОбработкаВходящих" id="0300ead8-bbc1-4e23-b763-c11c6d7fe0cc"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ИДРеглЗаданияПодготовкаИсходящих" id="08466071-66e4-4b0e-a840-ee368fd80649"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ИмяПользователяРеглЗаданий" id="3af59211-e2ca-46fa-9c8b-85021ce4d0e9"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.СрокХраненияСообщенийВДнях" id="57537446-c2b5-4dd1-b89b-5108c4f60d57"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.КоличествоВыгружаемыхИсходящихБезОшибок" id="5fb13ed2-a9ee-471a-834b-4ad3d0aa7de9"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.КоличествоОбрабатываемыхИсходящихСОшибками" id="61eed464-beb7-48b2-b01e-d6c090f08cb9"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.КоличествоОбрабатываемыхВходящихСОшибками" id="69fd8c11-ca6c-4de7-b3ff-c2d1e7bb8496"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.КоличествоОбрабатываемыхИсходящихБезОшибок" id="78097706-640e-4a42-847d-5d9e0e436991"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.КоличествоВыгружаемыхИсходящихСОшибками" id="98c72086-4078-4dfd-b79c-080ac006d6b0"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ИДРеглЗаданияОтправкаИсходящих" id="9aff4a67-1f13-474d-a868-ee07dcf12639"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.КоличествоОбрабатываемыхВходящихБезОшибок" id="abc42752-d5d0-442a-bc47-9e12a09420d3"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ОбменВключен" id="ad8f1c80-6d61-4d48-9683-94f95cede3cd"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ПараметрыПодключения" id="bf882ec6-9c87-4780-a3c4-812332ec8988"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ДополнительныеСведения" id="ea715613-d344-40af-a4c3-5fe5a0a723c0"/>
+			<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Attribute.ПользовательСоединения" id="f0b94263-5b21-4602-bb2d-775f1bef4134"/>
+		</Metadata>
+		<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Content" id="f4487480-cdfa-4577-82fb-d0cba62749f0.1" configVersion="160011b7ce8cd74899b30fbc051d305800000000"/>
+		<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Form.ФормаУзла" id="0bd4f41c-cd8f-4043-8045-c465acdabf56" configVersion="9e6357804c8df842a0292d54c8e445b200000000"/>
+		<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.Form.ФормаУзла.Form" id="0bd4f41c-cd8f-4043-8045-c465acdabf56.0" configVersion="5d7fde625250784ebda0be4912d6556100000000"/>
+		<Metadata name="ExchangePlan.QIWI_АдаптерВнешниеСистемы.ObjectModule" id="f4487480-cdfa-4577-82fb-d0cba62749f0.2" configVersion="1d0257936fafbf419a1956ac3748ae2300000000"/>
+		<Metadata name="HTTPService.QIWI_AdapterCentral" id="690508d5-363a-4fe6-ba16-201e56540523" configVersion="efe5646662697c4c834f1cf6881bbbcb00000000">
+			<Metadata name="HTTPService.QIWI_AdapterCentral.URLTemplate.Interaction.Method.InteractionPOST" id="2ca965de-689b-47ef-8958-c73766af0b50"/>
+			<Metadata name="HTTPService.QIWI_AdapterCentral.URLTemplate.CheckConnect.Method.CheckConnectGET" id="38a65a35-96c0-425e-96db-9154cad6e19e"/>
+			<Metadata name="HTTPService.QIWI_AdapterCentral.URLTemplate.Interaction" id="9bc4b1e1-e20b-4514-9ecc-adc213838669"/>
+			<Metadata name="HTTPService.QIWI_AdapterCentral.URLTemplate.CheckConnect" id="a91561a4-33c2-4d51-ac2c-8bcfaacf232e"/>
+		</Metadata>
+		<Metadata name="HTTPService.QIWI_AdapterCentral.Module" id="690508d5-363a-4fe6-ba16-201e56540523.0" configVersion="689db0b43d06684ca66dda3323b39d6700000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерДанныеВФорматеТранспорта" id="75d26d43-5c79-4107-a0de-6e1392d31918" configVersion="663de24a3a95a54a89bc9ff2dcfbb8ed00000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерДанныеВФорматеТранспорта.Dimension.Сообщение" id="541d6611-9732-4bc3-b17b-eaaa871303c2"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерДанныеВФорматеТранспорта.Resource.ОписаниеФормата" id="9a8490c5-ae05-486d-bd87-7554336740a8"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерДанныеВФорматеТранспорта.Resource.ДанныеОбмена" id="ec0bd520-04db-4ed5-9959-a712fd98b46d"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерДанныеВФорматеТранспорта.Form.ФормаЗаписи" id="e41d6414-b608-44e8-a914-c89a1ffb01d5" configVersion="158fc8c958def64c83fe0a1965ecf13f00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерДанныеВФорматеТранспорта.Form.ФормаЗаписи.Form" id="e41d6414-b608-44e8-a914-c89a1ffb01d5.0" configVersion="56b413e5ab79a24caf7c2b655240418100000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем" id="64a37212-ce06-4598-a35b-56b1fd58112e" configVersion="ea5a539c009ebd46ad63df21291e782b00000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем.Resource.ТипОбъектаВнешнейСистемы" id="050da954-c165-478e-9e2b-36aaa79b263a"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем.Dimension.ИдентификаторОбъекта" id="1beb2158-ddad-44c0-aa69-afb5963f2b52"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем.Attribute.ДатаСоздания" id="2aeb4839-5352-4763-97c6-2599e39945f3"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем.Attribute.ТипОбъектаТекущейСистемы" id="7c3070f4-2332-41e2-afcf-6df22683b28b"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем.Dimension.ВнешняяСистема" id="7d3319e0-ce44-4119-8f89-07b7dff803c9"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИдентификаторыВнешнихСистем.Dimension.Объект" id="ea979650-7270-43ca-aec8-ee8956f4b326"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерИспользуемыеНастройкиДляСообщений" id="a0159754-8bf3-4861-8592-9a381886edf8" configVersion="c3012ca2b284dc489a2b1a8538c88b2000000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерИспользуемыеНастройкиДляСообщений.Attribute.Комментарий" id="23fb787e-ce9e-444f-9b09-71a330845dfd"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИспользуемыеНастройкиДляСообщений.Dimension.ТипСообщения" id="e65a9bae-81fb-4983-bc24-f1fb43ea614d"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерИспользуемыеНастройкиДляСообщений.Resource.НастройкаДляСообщения" id="f1cff142-4779-4ecb-affd-85f8db2a9bf6"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерИспользуемыеНастройкиДляСообщений.Form.ФормаСписка" id="099b1a3a-f039-4a92-b3a2-2fe0861f3176" configVersion="1fbcc77c60eb894fbbd6a03874db15a300000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерИспользуемыеНастройкиДляСообщений.Form.ФормаСписка.Form" id="099b1a3a-f039-4a92-b3a2-2fe0861f3176.0" configVersion="e803dd076824784bb52eddaa2194b50800000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих" id="2d2ff98f-4d59-4188-b11f-b4ecdbea01f8" configVersion="6be53a26a2761e4786e087c063df66e000000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.УникальноеВремяРегистрации" id="3ca860ab-40d3-4e3c-995c-f3305b73bc7f"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.ВнешняяСистема" id="40ad97f4-9175-4f5b-b7bb-ebd802c2eb57"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.ТипСообщения" id="470e726a-7515-450c-82db-c7961003b970"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.ГодИМесяц" id="4c25e412-7722-4093-9d94-9d948aa6a0dc"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.ВходящееСообщение" id="6825afd8-5358-4f9a-84c6-287e4506a3ac"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.ДоступноДляОбработки" id="68e49979-e814-4197-8c88-90c1c8d1d56b"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.День" id="9e105e26-78d6-4f92-8c77-084d6827fee7"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Resource.Комментарий" id="caa0ab26-5300-4d6a-bb4a-bb9fd406e057"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Resource.ЕстьОшибки" id="d584d138-c964-4ddf-8890-0d333d7cf895"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Resource.ДатаРегистрации" id="e92724d1-e546-471c-9215-37b96b4f8bf2"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Dimension.СостояниеОчереди" id="fc4be358-2226-4f38-ae93-5bfea074ea3d"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Form.ФормаСписка" id="36d2eeae-b7f0-4fe3-9def-cea6065a4b66" configVersion="8c6d275875bf80419c7cebc2fef07a7a00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерОчередьВходящих.Form.ФормаСписка.Form" id="36d2eeae-b7f0-4fe3-9def-cea6065a4b66.0" configVersion="abdf2a2f2b3263499e0fc8160e5f7c2600000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих" id="224fdb1d-4ebc-498d-adf6-d03b79ca448d" configVersion="95a38c1905821244953322eb63d9756e00000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.ГодИМесяц" id="0435596f-8f72-48ca-bdea-e46490a002de"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.ДоступноДляОбработки" id="1313c23f-0cd8-4879-a225-899bbda281cf"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.ИсходящееСообщение" id="348aa3ca-20f6-4baa-ad8f-5f92513d65b9"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Resource.ДатаРегистрации" id="361484a1-4ebc-4e95-b1fe-93b83ba2f8cc"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Resource.ЕстьОшибки" id="40514175-64aa-4675-937c-5dd692858c3a"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.СостояниеОчереди" id="42cfe5de-5de6-455b-a2ec-f5449877e91a"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.УникальноеВремяРегистрации" id="4f5aedeb-6e03-4e26-9c7f-c755e3afe0f8"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Resource.ДатаЗапланированнойОбработки" id="52ef16bc-a60b-433f-9024-5c44fb34edc6"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Attribute.Пользователь" id="63d7b8cf-157a-41b5-98b4-6ac880408ed1"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Resource.Комментарий" id="826cb441-f37f-4f1d-97b4-15711ec5e232"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.День" id="9577bd74-08c5-499e-989f-a8217a646381"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.ХэшИдентификатор" id="c841109d-fc07-461c-8f5a-28afa2c268ca"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.ТипСообщения" id="ca1984bb-0a67-40af-b33a-59560c900a8c"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Dimension.ВнешняяСистема" id="f8d4466d-9ce1-4c41-b3d7-2907706e42ea"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Form.ФормаСписка" id="af37ac41-a026-432d-ac35-c23e17276cf3" configVersion="728c98f3cf50694db8e36956c3ee1deb00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерОчередьИсходящих.Form.ФормаСписка.Form" id="af37ac41-a026-432d-ac35-c23e17276cf3.0" configVersion="1b7aaa3bfec5be439763c642ba662d3b00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена" id="078d77f3-8dd6-41e9-ae9b-dbfa5a10a866" configVersion="b8ee7eb22baaf8449ab042011da466df00000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Attribute.Используется" id="136c1e26-145c-423e-9370-c298eb077525"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Dimension.ТипОбъекта" id="773f41f1-9e32-478f-9426-e21d65af6f5e"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Resource.ТипСообщения" id="86d71fc1-1660-4583-89a7-67f1c901ef25"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Dimension.СобытиеПоПодписке" id="dd2e0617-51d7-44b6-a854-d8726ee79547"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Form.ФормаЗаписи" id="e29a3fbd-890d-449e-8215-7910fc7debea" configVersion="36ce263eb7d25f4f95445c99df64c2eb00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Form.ФормаЗаписи.Form" id="e29a3fbd-890d-449e-8215-7910fc7debea.0" configVersion="420fa5206ec3704c9451bcfc11e2105d00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Form.ФормаСписка" id="88a0c6e4-87d7-4868-9075-2d094ac8408a" configVersion="81d46cc8ec150f4c8ddc02ef1666c37400000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПодпискиОбмена.Form.ФормаСписка.Form" id="88a0c6e4-87d7-4868-9075-2d094ac8408a.0" configVersion="d0e68cfa498d984e9f20b126bc7a531e00000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена" id="4c7b6b6f-d3fb-43e5-bdae-3fe658068118" configVersion="facbd884cb37a340beda95c1c0d3960800000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Dimension.Сообщение" id="16e0df1f-e02a-4742-a6cd-45182ec273f3"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Attribute.Пользователь" id="3b61bf98-401b-4cb6-89df-c34af38133ad"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Dimension.УникальноеВремяСобытия" id="458761b3-1c75-4917-aaf1-09951cb6978e"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Attribute.ДатаСобытия" id="69fa2dbc-611c-4d47-a2e7-6792839ddca9"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Resource.ОписаниеСобытия" id="a37b4cd7-8fe1-4d59-8395-57e85e26c6dc"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Resource.УровеньСобытия" id="e350ba2c-72bd-44d0-8e7b-221638da6917"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Dimension.ГодИМесяц" id="fe0b0c77-2547-436b-9efc-971f1e457edb"/>
+		</Metadata>
+		<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Form.ФормаЗаписи" id="f9bf48c7-ffec-48dd-8812-c783f5182660" configVersion="0c5b8bd4548d884b9539c87bed57ba9900000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Form.ФормаЗаписи.Form" id="f9bf48c7-ffec-48dd-8812-c783f5182660.0" configVersion="a6bc808f1fb0d64392394f927ba5584400000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Form.ФормаСписка" id="f7b428a7-7f78-4550-9fb8-150fc53ee578" configVersion="173bf586b727f848bcc299d264601b4300000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерПротоколОбмена.Form.ФормаСписка.Form" id="f7b428a7-7f78-4550-9fb8-150fc53ee578.0" configVersion="1db631c01798dc46b5280c1ed0a6be0900000000"/>
+		<Metadata name="InformationRegister.QIWI_АдаптерСостояниеОбъектовОбмена" id="743945c9-06ec-48a3-8420-0e7e92282ac6" configVersion="763d2205f83af343a75e88ae1774b89d00000000">
+			<Metadata name="InformationRegister.QIWI_АдаптерСостояниеОбъектовОбмена.Dimension.Объект" id="66ba2ee8-be20-49b1-987f-84f3804d6e1c"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерСостояниеОбъектовОбмена.Dimension.ВнешняяСистема" id="81b97e14-7703-46d3-939c-9876bcb71697"/>
+			<Metadata name="InformationRegister.QIWI_АдаптерСостояниеОбъектовОбмена.Resource.Состояние" id="a5138ef8-d17d-4100-ada0-a7cb5e99fd7d"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="74879178-85c4-4281-8b1a-9322f4fffa85" configVersion="c1c89ec7beb11d44a2dc801aa20b2e1100000000"/>
+		<Metadata name="Role.QIWI_АдаптерАдминистратор" id="5eec2454-aa24-4183-8b48-6981dee5ca04" configVersion="f6e2c67340a74d4e9345bc99b34add7800000000"/>
+		<Metadata name="Role.QIWI_АдаптерАдминистратор.Rights" id="5eec2454-aa24-4183-8b48-6981dee5ca04.0" configVersion="9e8cf9e4563096499f16e0c703df3b7f00000000"/>
+		<Metadata name="Role.QIWI_АдаптерПросмотр" id="f45a0afb-7876-48a8-a58c-4654efd5a6d7" configVersion="9aaa5a7e95f7d44d9b38bc5cf1655ddb00000000"/>
+		<Metadata name="Role.QIWI_АдаптерПросмотр.Rights" id="f45a0afb-7876-48a8-a58c-4654efd5a6d7.0" configVersion="4d7ae5651431d046b4875e026d635a6b00000000"/>
+		<Metadata name="Role.ПолныеПрава" id="5b57ccbb-4977-4664-9484-859ff233f114" configVersion="308379377a4b0a4abe1cd23dfaa1140400000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="5b57ccbb-4977-4664-9484-859ff233f114.0" configVersion="d423af4b79e2ab43936e3d04b027fbb200000000"/>
+		<Metadata name="ScheduledJob.QIWI_АдаптерОбработкаВходящих" id="6b261847-27ef-4a14-8309-652c6fca533b" configVersion="e9d53a3f02cc8740b51b3eac1d1bbd6100000000"/>
+		<Metadata name="ScheduledJob.QIWI_АдаптерОтправкаИсходящих" id="d53279fd-1181-451d-b80f-a2d2c85acfaa" configVersion="fe45685d3477c6439e497ca55c541a6600000000"/>
+		<Metadata name="ScheduledJob.QIWI_АдаптерПодготовкаИсходящих" id="03cada89-7b55-4da5-8cce-629c69e98cf1" configVersion="3c5fa1ba571b074cac115468f767e78300000000"/>
+		<Metadata name="ScheduledJob.QIWI_АдаптерУдалениеНеактуальныхДанных" id="e8e3c2de-cb4d-4759-a306-c44bf714072b" configVersion="de8cec6de5ce45458ff649cbca0352a600000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер" id="02b924b9-7355-47b4-979a-422aa0d7b97d" configVersion="38c01c097826d94ea5ea10be9ba9025f00000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.CommandInterface" id="02b924b9-7355-47b4-979a-422aa0d7b97d.1" configVersion="65cf358b2f9f4b4a9458a66a8dcd7b2f00000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера" id="b1792c7b-1460-4416-acb5-a1f612a4b73d" configVersion="955c639bdb44854f9141808e119dbd4d00000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера.Subsystem.Аудит" id="337e1c4c-9c6f-4ba2-8345-60a1234d03e4" configVersion="b4f859cdc49d8f43aa4cc88985cc2f2a00000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера.Subsystem.Аудит.CommandInterface" id="337e1c4c-9c6f-4ba2-8345-60a1234d03e4.1" configVersion="65e3a63e1c254d4494d0d597159baf3600000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера.Subsystem.ВерсионированиеНастроек" id="2af58a1a-5238-4c11-b248-473b29932d1f" configVersion="331f3097b6f00b408e6ce5f9f72cec5500000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера.Subsystem.ОбъектыАдминистрирования" id="124286e5-363f-4eee-b2b6-bf6a12cb52f9" configVersion="f5c3f79309767b4d84e09795ac55e0e500000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера.Subsystem.ОбъектыАдминистрирования.CommandInterface" id="124286e5-363f-4eee-b2b6-bf6a12cb52f9.1" configVersion="affce5953c4c20409b943fc40debb97300000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыАдаптера.Subsystem.ОбъектыВнутренние" id="5886e4b2-4f30-4082-bd93-49cfe04a17a7" configVersion="a05a95316dd7cd47996f0c86f935f4e000000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыДополнительные" id="11dd5f86-5902-4a58-8d82-3fdb9874094f" configVersion="93c78347a2dd414b88e6c6ba3f7e0f1500000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыДополнительные.Subsystem.ОбъектыССылкамиНаБСП" id="5459349e-788b-407c-b1f2-652e6d61f54f" configVersion="c51c913b9cf74f4eb7c89c545e91c47000000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыКСравнению" id="2b0ca943-5281-4e5f-bdc8-0e52814ac782" configVersion="b3451b9d5c19b14099d69ed8e6de838500000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыКСравнению.Subsystem.ОбъектыАдаптераКСравнению" id="255623a2-fa02-44e7-a671-6f8b86965e50" configVersion="d44481158ae2a34b8e0ec004ab4d77c100000000"/>
+		<Metadata name="Subsystem.QIWI_Адаптер.Subsystem.ОбъектыКСравнению.Subsystem.ТиповыеОбъекты" id="75a8427c-3701-4786-b2ea-40e1af5c5797" configVersion="bd218b1c7cf0c74a995adc29b66a815c00000000"/>
+		<Metadata name="WebService.QIWI_AdapterCentral" id="002e1a16-26a1-4503-9215-9244f4a7c75a" configVersion="92be310beef94a4fbf823119227223c800000000">
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction" id="12e5c18f-c547-42cc-8df8-ba98700fa42d"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction.Parameter.BodyType" id="77bd6a05-84f7-4ad5-8859-3698cc3fc1f0"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction.Parameter.MsgType" id="971b9117-7ed2-492f-8286-3fb3cb574606"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction.Parameter.MsgBody" id="a62d6a17-5b0b-4a29-b2ad-1c0a6f62b164"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction.Parameter.IntegrationProcessID" id="c92e4237-e91e-4b6f-affa-e0660b8a6f71"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction.Parameter.MsgID" id="d2f106bf-ccf4-44dc-88ba-712c4349e99b"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.CheckConnect" id="d7413435-e442-4560-aa22-cadec73115a4"/>
+			<Metadata name="WebService.QIWI_AdapterCentral.Operation.Interaction.Parameter.ExternalSystemID" id="e690c344-b924-4ac6-8b06-d755ef17d3e6"/>
+		</Metadata>
+		<Metadata name="WebService.QIWI_AdapterCentral.Module" id="002e1a16-26a1-4503-9215-9244f4a7c75a.0" configVersion="07697019568ff64e8434c56f5e659c9900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
