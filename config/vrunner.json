@@ -1,15 +1,46 @@
-{   "$schema": "https://raw.githubusercontent.com/silverbulleters/vanessa-runner/develop/vanessa-runner-schema.json",
+{
+    "$schema": "https://raw.githubusercontent.com/vanessa-opensource/vanessa-runner/develop/vanessa-runner-schema.json",
     "default": {
-        "--workspace": "."
+        "--ibconnection": "/Fbuild/ib",
+        "--db-user": "",
+        "--db-pwd": "",
+        "--root": ".",
+        "--workspace": ".",
+        "--v8version": "8.3.19.1467",
+        "--locale": "ru",
+        "--language": "ru",
+        "--additional": "/DisplayAllFunctions /Lru  /iTaxi /TESTMANAGER",
+        "--ordinaryapp": "-1",
+
+        "--debuglogfile": "$workspaceRoot/logdebug",        
+        "--debuglog": true
     },
     "vanessa": {
-        "--vanessasettings": "./config/vanessaConf.json"
+        "--vanessasettings": "./config/vanessaConf.json",
+        "--pathvanessa": "C:\\Program Files (x86)\\OneScript\\lib\\vanessa-automation\\vanessa-automation.epf",
+        "--db-pwd": "",
+        "--db-user": ""
     },
-
     "xunit": {
         "--xddConfig": "./config/xddTestRunnerConf.json",
-        "testsPath": "$addroot/tests/smoke",
-        "--reportsxunit": "ГенераторОтчетаJUnitXML{out/junit/smoke.xml};ГенераторОтчетаAllureXMLВерсия2{out/allure/allure-smoke.xml}",
-        "--xddExitCodePath": "./xddExitCodePath.txt"
+        "testsPath": "$addRoot/tests/smoke",
+        "--reportsxunit": "ГенераторОтчетаJUnitXML{out/smoke/junit/junit.xml};ГенераторОтчетаAllureXMLВерсия2{out/smoke/allure/allure.xml}",
+        "--xddExitCodePath": "./build/xddExitCodePath.txt",
+        "--xdddebug": true
+    },    
+    "syntax-check": {
+        "--groupbymetadata": true,
+        "--exception-file": "tools/syntax-check-excludes.txt",
+        "--junitpath": "out/syntax-check/junit/junit.xml",
+        "--allure-results2": "out/syntax-check/allure",
+
+        "--mode": [
+            "-ExtendedModulesCheck",
+            "-ThinClient",
+            "-WebClient",
+            "-Server",
+            "-ExternalConnection",
+            "-ThickClientOrdinaryApplication"
+        ]
     }
 }
