@@ -1,4 +1,4 @@
-@Library('vanessa-usher') _
+@Library('j-usher') _
 
 start_ci(AGENT: "slave",
         V8VERSION: "8.3.19.1467", // Версия платформы 1С
