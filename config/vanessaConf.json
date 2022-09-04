@@ -101,7 +101,6 @@
 	},
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
-        "./features/Libraries",
         "$instrumentsRoot/./features/libraries",
 		"C:\\Program Files (x86)\\OneScript\\lib\\vanessa-automation\\features\\Libraries"
 	],
