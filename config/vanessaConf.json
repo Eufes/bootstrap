@@ -57,8 +57,8 @@
 	},
 	"ДелатьОтчетВФорматеАллюр": true,
 	"ОтчетAllure": {
-		"КаталогВыгрузкиAllure": "$workspaceRoot/out/addallure.xml",
-		"КаталогВыгрузкиAllureБазовый": "$workspaceRoot/out/addallureb.xml",
+		"КаталогВыгрузкиAllure": "$workspaceRoot/out/allure.xml",
+		"КаталогВыгрузкиAllureБазовый": "$workspaceRoot/out/allureb.xml",
 		"УровеньОтчета1": "Каталог1",
 		"УровеньОтчета2": "ИмяФичи",
 		"УровеньОтчета3": "ИмяСценария",
