@@ -57,7 +57,7 @@
 	},
 	"ДелатьОтчетВФорматеАллюр": true,
 	"ОтчетAllure": {
-		"КаталогВыгрузкиAllure": "$workspaceRoot/out/bddallure/", 
+		"КаталогВыгрузкиAllure": "./out/bddallure/", 
 		"КаталогВыгрузкиAllureБазовый": "$workspaceRoot/out/bddallure/", 
 		"УровеньОтчета1": "Каталог1",
 		"УровеньОтчета2": "ИмяФичи",
