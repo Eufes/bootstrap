@@ -19,7 +19,10 @@
         "--vanessasettings": "./config/vanessaConf.json",
         "--pathvanessa": "C:\\Program Files (x86)\\OneScript\\lib\\vanessa-automation\\vanessa-automation.epf",
         "--db-pwd": "",
-        "--db-user": ""
+        "--db-user": "", 
+        "--workspace": ".",       
+        "--debuglogfile": "./logdebug_bdd",
+        "--debuglog": true        
     },
     "xunit": {
         "--xddConfig": "./config/xddTestRunnerConf.json",
